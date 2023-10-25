@@ -1,3 +1,4 @@
 - https://github.com/vasturiano/aframe-globe-component
 - https://github.com/vasturiano/3d-force-graph-vr
 - https://github.com/vasturiano/3d-force-graph-ar
+- https://github.com/supermedium/moonrider
