@@ -2,3 +2,7 @@
 - https://github.com/vasturiano/3d-force-graph-vr
 - https://github.com/vasturiano/3d-force-graph-ar
 - https://github.com/supermedium/moonrider
+- https://github.com/aframevr/a-painter
+- https://github.com/hiukim/mind-ar-js
+- https://github.com/archilogic-com/3dio-js
+- https://github.com/AR-js-org/studio
